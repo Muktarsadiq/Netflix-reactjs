@@ -1,10 +1,19 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this project was. created using React, Next-js, Firebase and TailwindCss
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run npm run dev:
+
+## Dependencies needed for this Project
+1: @testing-library/jest-dom
+2: @testing-library/react
+3: axios,
+4: firebase,
+5: react-icons,
+6: react-router-dom,
+7: tailwind-scrollbar-hide
 
 ### `npm start`
 
